@@ -1,0 +1,136 @@
+body {
+	margin:0px;
+	padding:0px;
+	text-align:center;
+}
+
+.stretchable-header{
+	width:100%;
+	height:150px;
+	background-color:#d0d0d0;
+	margin:0px;
+	padding:0px;
+}
+			
+.main{
+	width:980px;
+	margin-top:-150px;
+	margin-left:auto;
+	margin-right:auto;
+	padding-left:auto;
+	padding-right:auto;
+	text-align:left;
+}
+
+.header{
+	background-color:e0e0e0;
+	height:150px;
+	
+	
+}
+
+.middle{
+	
+	margin:2px 0px 5px 0px;
+	width:100%;
+	border-right:1px solid #dadada;
+	overflow:auto;
+}
+
+.footer{
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-left:5px;
+	padding-right:5px;
+	
+	margin-top:5px;
+	margin-bottom:5px;
+	border:1px solid grey;
+	overflow:auto;
+	clear:both;
+
+}
+
+
+.left-panel{
+	float:left;
+	border-right:1px solid grey;
+	background-color:transparent;
+	width:818px;
+}
+
+.right-panel{
+	float:right;
+	width:148px;
+ overflow:auto;
+}
+
+.content{
+	padding:10px;
+	overflow:auto;
+}
+
+.content-header{
+	
+	font-size:30px;
+	font-family:"Georgia";
+	padding:5px 10px;
+}
+
+.content-header  a{
+	color:green;
+	text-decoration:none;
+}
+.content-body{
+	
+	/*border:1px solid grey;*/
+	border-width:0px 0px 1px 0px;
+	border-style:solid;
+	border-color:green;
+	font-family:"Georgia";
+	width:700px;
+	padding:10px;
+	text-align:justify;
+}
+
+
+
+.upper-round-border-10px{
+	border-top-left-radius: 10px 10px;
+	border-top-right-radius: 10px 10px;
+	-moz-border-radius-topleft: 10px 10px;
+	-moz-border-radius-topright: 10px 10px;
+}
+
+.right-round-border-10px{
+	border-top-right-radius: 10px 10px;
+	border-bottom-right-radius: 10px 10px;
+	-moz-border-radius-topright: 10px 10px;
+	-moz-border-radius-bottomright: 10px 10px;
+}
+
+.left-round-border-10px{
+	border-top-left-radius: 10px 10px;
+	border-bottom-left-radius: 10px 10px;
+	-moz-border-radius-topleft: 10px 10px;
+	-moz-border-radius-bottomleft: 10px 10px;
+}
+
+.rounded-border-10px{
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+}
+
+
+
+.rounded-border-bottom-20px{
+
+
+		border-bottom-right-radius: 20px ;
+		border-bottom-left-radius: 20px ;
+		
+		-moz-border-radius-bottomright: 20px;
+		-moz-border-radius-bottomleft: 20px;
+
+}

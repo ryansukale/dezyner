@@ -1,0 +1,15 @@
+* {
+	margin: 0;
+}
+html, body1 {
+	height: 100%;
+}
+.wrapper1{
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto -4em 0em;
+}
+.footer1, .push1 {
+	height: 4em;
+}

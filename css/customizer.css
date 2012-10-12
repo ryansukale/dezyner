@@ -1,0 +1,56 @@
+.customizer{
+    width:280px;
+   /*overflow:auto;*/
+}
+
+.customizer .options{
+    padding:5px;
+    /*overflow:auto;*/
+}
+.customizer li{
+    /*overflow:auto;*/
+	clear:both;
+    padding:3px;
+}
+
+.customizer input{
+    width:130px;
+}
+
+.customizer .values{
+    float:right;
+}
+
+.customizer .preview{
+    float:right;
+    border:1px solid #dadada;
+    padding:5px 10px;;
+    text-align:center;
+    font-weight:bold;
+    cursor:pointer;
+}
+.customizer .apply{
+    float:right;
+    border:1px solid #dadada;
+    padding:5px 10px;;
+    text-align:center;
+    font-weight:bold;
+    cursor:pointer;
+}
+
+.customizer .get-css{
+    float:right;
+    border:1px solid #dadada;
+    padding:5px 10px;;
+    text-align:center;
+    font-weight:bold;
+    cursor:pointer;
+}
+
+.css-properties{
+	display:none;
+}
+
+.html-details{
+	display:none;
+}

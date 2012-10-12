@@ -1,0 +1,23 @@
+.dezyner{
+ padding:5px !important;
+ font-size: 0.7em;
+}
+
+.dezyner .selection-panel-1 div{
+	-moz-border-radius:5px;
+	padding:10px 5px;
+	margin:5px;
+	border:1px solid #dadada;
+	cursor:pointer;
+	text-align:center;
+	
+}
+
+.selection{
+	background-color:#ffffff;
+	color:green;
+}
+
+.customize-selector{
+	background-color:#bababa !important;
+}

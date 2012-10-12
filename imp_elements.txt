@@ -1,0 +1,10 @@
+Important elements for customizing
+position:static|absolute|relative|fixed|inherit
+margin:top|right|bottom|left
+padding:top|right|bottom|left
+overflow:auto|show|hide
+width:
+height:
+border:
+background-color:
+float:left|right|none|inherit
