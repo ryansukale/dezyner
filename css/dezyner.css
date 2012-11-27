@@ -3,6 +3,10 @@
  font-size: 0.7em;
 }
 
+.selection-panel-1{
+	float:left;
+}
+
 .dezyner .selection-panel-1 div{
 	-moz-border-radius:5px;
 	padding:10px 5px;
