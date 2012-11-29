@@ -1,0 +1,1 @@
+/*	javascript file that will be used to initialize the styles for the entire page*/
