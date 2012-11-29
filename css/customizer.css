@@ -24,6 +24,7 @@
 	border:1px solid #dadada;
 	cursor:pointer;
 	text-align:center;
+	
 }
 
 .customizer .options{
@@ -35,7 +36,10 @@
     /*overflow:auto;*/
 	clear:both;
     padding:3px;
+	color:white;
 }
+
+
 
 .customizer input{
     width:130px;
